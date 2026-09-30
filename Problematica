@@ -1,2 +1,11 @@
 Actualmente se tiene un contenido para el curso de Calculo Integral (algunos programas de estudios varían en cuanto al nombre y la clave del mismo). Existe múltiple bibliografía y/o referencias para el contenido de esta asignatura.
 En este proyecto, la idea es crear un tutorial para los profesores de la asignatura para que puedan crear un examen para aplicar a los estudiantes. Dicho examen puede tener la opción de aplicarse multiples veces, donde cada vez las preguntas deben se diferentes ya se en la descripción como en los datos proporcionados; es decir, el objetivo es crear un banco de preguntas donde se tenga: (a) un conjunto de preguntas diferentes que pueden ser seleccionadas al azar, (b) un conjunto de preguntas similares donde varíe solamente los datos para realizar los cálculos.
+
+Para iniciar, debes encontrar una plataforma donde puedas utilizar Moodle, existen algunas opciones en internet. Si ninguna de ellas te satisface, el asesor puede proporcionarte una cuenta en el servidor de matemáticas (debes solicitarla).
+
+Selecciona un tipo de pregunta para trabajar (https://docs.moodle.org/all/es/Preguntas) debes avisar al asesor de tu elección para no seleccionar la misma que tus compañer@s. Espera la validación para trabajar en la pregunta.
+
+Seleccionar un tema del plan de estudios (https://qb.unison.mx/wp-content/uploads/2022/05/ELEMENTOS-DE-CALCULO-INTEGRAL-Y-ALGEBRA-LINEAL.pdf) sección II (integral definida) o sección III (integral indefinida)
+Crear dos preguntas del tema seleccionado. Recuerda que en cálculo integral es posible utilizar imágenes y símbolos matemáticos entre otras opciones, debes incluir algo en tu pregunta (no se aceptan preguntas de solo texto). Una de las preguntas debe ser "fija" mientras que otra pregunta debe ser "calculada".
+
+Por último, debes crear un examen donde seleccione al azar las preguntas elaboradas.
